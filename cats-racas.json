@@ -1,0 +1,37 @@
+[
+    {
+        "id": "01",
+        "nome": "Persa",
+        "imagem": "https://inovaveterinaria.com.br/wp-content/uploads/2016/01/Gato-persa-INOVA-2048x1362.jpg",
+        "descricao":"O gato Persa é uma raça braquicefálica, nome dado a característica da conformação craniana, devido ao seu focinho ser mais curto ou  “achatado”. O que pode resultar na dificuldade da respiração, muitas vezes refletindo em seu comportamento mais tranquilo e quieto.",
+        "origem": "Irã"
+    },
+    {
+        "id": "02",
+        "nome": "Siamês",
+        "imagem": "https://inovaveterinaria.com.br/wp-content/uploads/2016/01/Gato-siames-INOVA-2048x1365.jpg",
+        "descricao":"A aparência de um gato Siamês é o que mais chama atenção: olhos bem azuis e pelos claros com extremidades mais escuras (rosto, orelhas, patas e rabo). Com postura elegante, esta raça era comum em companhias para reis na Tailândia.",
+        "origem": "Tailândia"
+    },
+    {
+        "id": "03",
+        "nome": "Maine Coon",
+        "imagem": "https://inovaveterinaria.com.br/wp-content/uploads/2016/01/Maine-Coon-INOVA-2048x1365.jpg",
+        "descricao":"São brincalhões, ativos, companheiros e amigáveis. Por ser bem diferente e única, esta raça de gato gigante necessita de cuidados e atenção especiais. Por isso, existe a ração específica para a raça de gato Maine Coon.",
+        "origem": "Estados Unidos"
+    },
+    {
+        "id": "04",
+        "nome": "Angorá",
+        "imagem": "https://inovaveterinaria.com.br/wp-content/uploads/2016/01/portrait-two-white-american-longhair-cats-black-white-background.jpg",
+        "descricao":"Fofo, elegante e independente, o gato Angorá pertence a uma raça de gatos domésticos que veio da Turquia. De pelos longos que necessitam de escovação frequente e olhos claros e marcantes, o gato Angorá adora brincar e é ótimo para fazer companhia a crianças.",
+        "origem": "Turquia"
+    },
+    {
+        "id": "05",
+        "nome": "Sphynx",
+        "imagem": "https://inovaveterinaria.com.br/wp-content/uploads/2016/01/sphynx-INOVA-2048x1463.jpg",
+        "descricao":"Os gatos Sphynx são extremamente dóceis e apegados aos donos, adoram carinho, companhia e brinquedos, seja para se entreter sozinho ou de preferência com seu dono.",
+        "origem": "Toronto"
+    }
+]

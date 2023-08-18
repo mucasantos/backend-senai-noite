@@ -1,0 +1,63 @@
+[
+    {
+        "id": "01",
+        "nome": "Pomerânia (Spitz Alemão)",
+        "imagem": "https://lh3.googleusercontent.com/7ZrwdkNVWATZKpTg4Or7HiVVi6IZMnrudw3sfnUUoOGjecRtcWe_Q3u81NLRFV0mCtMeIhWoLoRq-d8Zo0JRI_YdMGCGH2GJDioSggDI-67O74W5am3mLIF76WG5b5N2TYTmQ_gm",
+        "descricao": "Tanto Spitz pequeno quanto Spitz anão são chamados de Pomerânia. Esta raça de porte muito pequeno se tornou bastante popular nos últimos anos. São cães afetuosos, inteligentes e muito ligados aos seus donos.",
+        "caract": [
+            "Corpo pequeno e compacto",
+            "Silhueta delicada e elegante",
+            "Pelagem abundante e arejads"
+        ]
+    },
+    {
+        "id": "02",
+        "nome": "Bulldog Francês",
+        "imagem": "https://lh3.googleusercontent.com/MzvJBskTLNooDXSVlUF5ItYme8g_o7JeekPZXVnc6tn_LRf1zTXY5EHzY1fDndcSJ7lmP56E7mII85FGZgkpG4IyaLZIrdFcBLHXVCMnCPZDEm6Pf_XV2v21K3JGRwE8tIYbN7g-",
+        "descricao": "O Bulldog Francês está no top três das raças mais registradas no Brasil, de acordo com a Confederação Brasileira de Cinofilia (CBKC). Estes animais são divertidos, inteligentes, amigáveis, carismáticos, sociáveis e muito companheiros",
+        "caract": [
+            "Estrutura corporal compacta, porém robusta, forte e musculosa",
+            "Anatomia braquicefálica",
+            "Sensibilidade digestiva",
+            "Apetite caprichoso"
+        ]
+    },
+    {
+        "id": "03",
+        "nome": "Shih Tzu",
+        "imagem": "https://lh5.googleusercontent.com/4A4W17orY2W67d7rW6qX6hkxG4JqhWFbYYzMVYBY8KWY06CnezI3lRDWGBvTt0WdQJbSr1WhGDImVgyyHzcBaebRE6OSZ1FoDK6TUmpbABbLa5iNgCKIai3Z6toS7t--mnnAY0g1",
+        "descricao": "O Shih Tzu é um cão calmo, porém ativo, dócil, independente, alegre, curioso, divertido e sociável. A raça apresenta alta expectativa de vida e é ideal para companhia, especialmente para famílias com crianças.",
+        "caract": [
+            "Tendência ao ganho de peso",
+            "Predisposição ao cálculo dental",
+            "Maior probabilidade de desenvolverem urolitíases",
+            "Sensibilidade cutânea",
+            "Apetite exigente"
+        ]
+    },
+    {
+        "id": "04",
+        "nome": "Rottweiler",
+        "imagem": "https://lh4.googleusercontent.com/sLkmIi6bLBfLmF69aT4M7_GN99Nf4LaXGqB-wvWHSX5GXIhcTeSijrn4P2MEi62tfgkamQMdiW6nNGtHR2WYN_56PCfWUJYT9jGdL5m-K94-oXpcxyqtl2zDiE_7gmxQ2-veSYla",
+        "descricao": "A raça de origem alemã e de ampla reputação mundial foi oficialmente reconhecida em 1966.",
+        "caract": [
+            "Temperamento forte e dominador",
+            "Estrutura corporal robusta e musculosa",
+            "Necessidade de espaço para praticar atividades físicas"
+        ]
+    },
+    {
+        "id": "05",
+        "nome": "SphPugynx",
+        "imagem": "https://cdn.britannica.com/69/8169-050-F94FE754/Pug.jpg",
+        "descricao": "Pugs são de origem chinesa, mas graças ao Duque de Windsor recuperaram sua popularidade na Inglaterra há alguns séculos. São cães sensíveis, afetuosos e companheiros, mas podem ser reservado com estranhos.",
+        "caract": [
+            "Braquicefálicos",
+            "Corpo compacto e musculoso",
+            "Baixa tolerância a exercícios físicos",
+            "Tendência ao ganho de peso",
+            "Sensibilidade digestiva",
+            "Lábio superior bastante espesso"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "Uno",
+        "marca": "Fiat",
+        "modelo": "GT-600",
+        "imagem": "http://imagem.com",
+        "descricao":"Carro demais!!"
+    },
+    {
+        "nome": "Uno",
+        "marca": "Fiat",
+        "modelo": "GT-600",
+        "imagem": "http://imagem.com",
+        "descricao":"Carro demais!!"
+    },
+    {
+        "nome": "Uno",
+        "marca": "Fiat",
+        "modelo": "GT-600",
+        "imagem": "http://imagem.com",
+        "descricao":"Carro demais!!"
+    },
+    {
+        "nome": "Uno",
+        "marca": "Fiat",
+        "modelo": "GT-600",
+        "imagem": "http://imagem.com",
+        "descricao":"Carro demais!!"
+    },
+    {
+        "nome": "Uno",
+        "marca": "Fiat",
+        "modelo": "GT-600",
+        "imagem": "http://imagem.com",
+        "descricao":"Carro demais!!"
+    }
+]
