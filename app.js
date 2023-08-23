@@ -29,6 +29,7 @@ const server = http.createServer(function (req, res) {
             if (received.email === 'muca@gmail.com') {
                 res.end("Email OK!!")
             } else {
+                
                 res.end("Verifique o Email !")
             }
         })

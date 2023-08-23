@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "start": "nodemon mongo.js"
   },
   "keywords": [
     "aula",
@@ -14,5 +14,10 @@
     "node"
   ],
   "author": "Samuel Santos",
-  "license": "ISC"  
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.4.4",
+    "nodemon": "^3.0.1"
+  }
 }
