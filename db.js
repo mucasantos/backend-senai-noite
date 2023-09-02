@@ -29,7 +29,28 @@ const server = createServer(function (request, response) {
         console.log(request.url)
 
     }
+    if(request.url === '/save' && request.method === 'POST'){
 
+        var body = '';
+        var sql = '';
+        request.on('data', function (data) {
+            body += data
+        })
+
+        request.on('end', function () {
+            var received = JSON.parse(body)
+            console.log(received)
+           
+            sql = "INSERT INTO alunos (nome, email, telefone, escola) VALUES ('" + received.nome +  "','" + received.email +"', '" + received.telefone+"' , '" + received.escola + "')";
+            con.query(sql, function (err, result, fields) {
+                if (err) throw err;
+                console.log(result);
+                response.end(JSON.stringify(result))
+              });
+        })
+
+        
+    }
     
 })
 
