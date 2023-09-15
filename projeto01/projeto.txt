@@ -1,0 +1,14 @@
+NodeJS e Express - 14/09/2023
+
+1. Criar o nosso projeto com o npm init - OK
+2. Importar o express - OK
+3. Estudar sobre middleware - com estudo de caso - OK
+4. Revisar como acessar o BD MySQL
+5. Conectar com o MongoDB
+6. Iniciar a construção da API
+
+NodeJS e Express - 15/09/2023
+
+1. Criar o nosso projeto com o npm init - OK
+2. Importar o express - OK
+3. Estudar sobre middleware - Roteamento
