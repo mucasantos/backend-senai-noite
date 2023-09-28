@@ -8,7 +8,7 @@ const shopRoutes = require("./routes/shop");
 //middleware
 app.use('/shop',express.static("public"));
 
-app.use(adminRoutes);
+app.use('/admin', adminRoutes);
 app.use('/shop', shopRoutes);
 
 //Verificar rota nao existente

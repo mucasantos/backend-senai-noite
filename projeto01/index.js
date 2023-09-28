@@ -1,13 +1,18 @@
 var express = require("express")
-var mysql = require("mysql")
+//var mysql = require("mysql")
 var app = express()
+var MongoClient = require('mongodb').MongoClient;
 
+
+
+/*
 var db = mysql.createConnection({
     host: "localhost",
     user: "root",
     password: "@12345678",
     database: "escola"
 });
+*/
 
 var myLogger = function (req, res, next) {
     console.log('LOGGED');
@@ -40,4 +45,20 @@ app.post('/salvar', function (req, res) {
 
 
 
-app.listen(3000)
+MongoClient.connect('mongodb://127.0.0.1:27017/animals', function(err, db) {
+  if (err) {
+    throw err;
+  }
+
+  
+  
+  db.collection('mammals').find().toArray(function(err, result) {
+    if (err) {
+      throw err;
+    }
+    console.log(result);
+  });
+
+  app.listen(3000)
+});
+
