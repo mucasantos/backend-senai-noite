@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "george",
+        "senha": "321senha",
+        "email": "george@gmail.com"
+    },
+    {
+        "id": 2,
+        "nome": "cleber gustavo",
+        "email": "cleber@gmail.com",
+        "senha": "321"
+    },
+    {
+        "id": 3,
+        "nome": "cleber gustavo",
+        "email": "cleber@gmail.com",
+        "senha": "321"
+    },
+    {
+        "id": 4,
+        "nome": "cleber gustavo",
+        "email": "cleber@gmail.com",
+        "senha": "321"
+    },
+    {
+        "id": 5,
+        "nome": "cleber gustavo",
+        "email": "cleber1@gmail.com",
+        "senha": "321"
+    }
+]
